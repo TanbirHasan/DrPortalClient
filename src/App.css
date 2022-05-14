@@ -15,9 +15,10 @@
     background-repeat: no-repeat;
 }
 
-.footer{
+.Footer{
   background-image: url(../src/assets/images/footer.png);
-    background-position: center;
+    background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
+    object-fit: cover;
 }
